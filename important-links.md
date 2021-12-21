@@ -43,3 +43,5 @@ Namecheap - https://www.namecheap.com/hosting/what-is-shared-hosting-definition/
 React router shopify - https://theunlikelydeveloper.com/shopify-polaris-navigation-react-router/
 
 Basic git command - https://www.fosslinux.com/40118/top-20-git-commands-with-practical-examples.htm
+
+Multiple Node App on single domain: https://www.digitalocean.com/community/questions/how-to-run-multiple-node-application-with-nginx-same-droplet-same-domain 
